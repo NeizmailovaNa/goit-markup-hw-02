@@ -146,6 +146,7 @@ body {
     color: #212121;
     background: #F5F4FA;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 .button-all:hover,
@@ -191,6 +192,9 @@ body {
 }
 
 /* footer */
+.footer{
+    background: #2F303A;
+}
 .company-adress {
     font-weight: normal;
     font-size: 14px;
