@@ -71,7 +71,7 @@ body {
 
 .hero-button {
     font-weight: bold;
-    font-size: 16px
+    font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.06em;
     color: #FFFFFF;    
@@ -88,7 +88,7 @@ body {
 .features-title-list{
     font-weight: bold;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #212121;
@@ -97,7 +97,7 @@ body {
 .features-text{
     font-weight: normal;
     font-size: 14px;
-    line-height: 1.71px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: #757575;
 }
@@ -107,7 +107,7 @@ body {
 .team-title {
     font-weight: bold;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -116,7 +116,7 @@ body {
 .team-member{
     font-weight: 500;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -124,7 +124,7 @@ body {
 .team-member-profession{
     font-weight: normal;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     color: #757575;
 }
@@ -141,7 +141,7 @@ body {
 .button-marketing{
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.62;
     letter-spacing: 0.03em;
     color: #212121;
     background: #F5F4FA;
@@ -178,7 +178,7 @@ body {
 .examples-title{
     font-weight: bold;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2.00;
     letter-spacing: 0.06em;
     color: #212121;
 }
@@ -186,27 +186,23 @@ body {
 .examples-type{
     font-weight: normal;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.89;
     letter-spacing: 0.03em;
     color: #757575;
 }
 
 /* footer */
 .footer{
-    background: #2F303A;
-}
-.company-adress {
+    background: #2F303A; 
     font-weight: normal;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
+}
+.company-adress {
     color: #FFFFFF;
 }
 
 .footer-contacts {
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-    letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
