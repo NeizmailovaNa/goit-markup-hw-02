@@ -133,6 +133,9 @@ body {
 }
 
 /* team */
+.team {
+    background-color: var(--team-bgc);
+}
 .team-member{
     font-weight: 500;
     font-size: 16px;
